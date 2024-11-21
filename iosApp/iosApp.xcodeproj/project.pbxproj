@@ -14,6 +14,8 @@
 		44030A0C2CEE74DE00B9CB9C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44030A0B2CEE74DE00B9CB9C /* LaunchScreen.storyboard */; };
 		44030A122CEE813600B9CB9C /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 44030A102CEE813600B9CB9C /* Info.plist */; };
 		44030A142CEEA45000B9CB9C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44030A132CEEA42300B9CB9C /* AppDelegate.swift */; };
+		44030A162CEF889900B9CB9C /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44030A152CEF889000B9CB9C /* HomeScreen.swift */; };
+		44030A182CEF8C6C00B9CB9C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44030A172CEF8C5000B9CB9C /* ContentView.swift */; };
 		7555FF83242A565900829871 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7555FF82242A565900829871 /* ListView.swift */; };
 		EB049AFF2C1AEB680032A688 /* KMPObservableViewModelCore in Frameworks */ = {isa = PBXBuildFile; productRef = EB049AFE2C1AEB680032A688 /* KMPObservableViewModelCore */; };
 		EB049B012C1AEB680032A688 /* KMPObservableViewModelSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = EB049B002C1AEB680032A688 /* KMPObservableViewModelSwiftUI */; };
@@ -32,6 +34,8 @@
 		44030A0D2CEE74DF00B9CB9C /* mul */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; name = mul; path = mul.lproj/LaunchScreen.xcstrings; sourceTree = "<group>"; };
 		44030A112CEE813600B9CB9C /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Base; path = Base.lproj/Info.plist; sourceTree = "<group>"; };
 		44030A132CEEA42300B9CB9C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		44030A152CEF889000B9CB9C /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
+		44030A172CEF8C5000B9CB9C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7555FF7B242A565900829871 /* KMP App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "KMP App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7555FF82242A565900829871 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 		7555FF8C242A565B00829871 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -102,6 +106,8 @@
 		7555FF7D242A565900829871 /* iosApp */ = {
 			isa = PBXGroup;
 			children = (
+				44030A172CEF8C5000B9CB9C /* ContentView.swift */,
+				44030A152CEF889000B9CB9C /* HomeScreen.swift */,
 				44030A132CEEA42300B9CB9C /* AppDelegate.swift */,
 				058557BA273AAA24004C7B11 /* Assets.xcassets */,
 				7555FF82242A565900829871 /* ListView.swift */,
@@ -230,6 +236,8 @@
 			files = (
 				EB1C5CC72AE06906002852BE /* DetailView.swift in Sources */,
 				2152FB042600AC8F00CF470E /* iOSApp.swift in Sources */,
+				44030A182CEF8C6C00B9CB9C /* ContentView.swift in Sources */,
+				44030A162CEF889900B9CB9C /* HomeScreen.swift in Sources */,
 				EB50C4942BE0F0D8005DE781 /* KMPObservableViewModel.swift in Sources */,
 				44030A142CEEA45000B9CB9C /* AppDelegate.swift in Sources */,
 				7555FF83242A565900829871 /* ListView.swift in Sources */,

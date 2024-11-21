@@ -1,2 +1,2 @@
 
-<shared_commonMain>:com.jetbrains.kmpapp.data:com.jetbrains.kmpapp.di:com.jetbrains.kmpapp.screens
+<shared_commonMain>:com.jetbrains.screens.data:com.jetbrains.screens.di:com.jetbrains.screens.models:"com.jetbrains.screens.repositories:com.jetbrains.screens.screens

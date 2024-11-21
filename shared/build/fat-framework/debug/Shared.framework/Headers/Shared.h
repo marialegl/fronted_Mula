@@ -6,7 +6,7 @@
 #import <Foundation/NSString.h>
 #import <Foundation/NSValue.h>
 
-@class SharedKoin_coreKoin, SharedMuseumRepository, SharedMuseumObject, SharedKtor_client_coreHttpClient, SharedKtorMuseumApiCompanion, SharedMuseumObjectCompanion, SharedKotlinArray<T>, SharedLifecycle_viewmodelViewModel, SharedKmp_observableviewmodel_coreViewModel, SharedDetailViewModel, SharedKotlinUnit, NSError, SharedListViewModel, SharedKoin_coreModule, SharedKoin_coreScope, SharedKoin_coreParametersHolder, SharedKotlinLazyThreadSafetyMode, SharedKoin_coreLogger, SharedKoin_coreExtensionManager, SharedKoin_coreInstanceRegistry, SharedKoin_corePropertyRegistry, SharedKoin_coreScopeRegistry, SharedKotlinThrowable, SharedKotlinException, SharedKotlinRuntimeException, SharedKotlinIllegalStateException, SharedKtor_client_coreHttpClientEngineConfig, SharedKtor_client_coreHttpClientConfig<T>, SharedKtor_eventsEvents, SharedKtor_client_coreHttpReceivePipeline, SharedKtor_client_coreHttpRequestPipeline, SharedKtor_client_coreHttpResponsePipeline, SharedKtor_client_coreHttpSendPipeline, SharedKoin_coreKoinDefinition<R>, SharedKoin_coreInstanceFactory<T>, SharedKoin_coreSingleInstanceFactory<T>, SharedKoin_coreScopeDSL, SharedKoin_coreLockable, SharedKotlinEnumCompanion, SharedKotlinEnum<E>, SharedKoin_coreLevel, SharedKoin_coreScopeRegistryCompanion, SharedKtor_client_coreHttpRequestData, SharedKtor_client_coreHttpResponseData, SharedKotlinx_coroutines_coreCoroutineDispatcher, SharedKtor_client_coreProxyConfig, SharedKtor_utilsAttributeKey<T>, SharedKtor_eventsEventDefinition<T>, SharedKtor_utilsPipelinePhase, SharedKtor_utilsPipeline<TSubject, TContext>, SharedKtor_client_coreHttpReceivePipelinePhases, SharedKtor_client_coreHttpResponse, SharedKtor_client_coreHttpRequestPipelinePhases, SharedKtor_client_coreHttpRequestBuilder, SharedKtor_client_coreHttpResponsePipelinePhases, SharedKtor_client_coreHttpResponseContainer, SharedKtor_client_coreHttpClientCall, SharedKtor_client_coreHttpSendPipelinePhases, SharedKotlinx_serialization_coreSerializersModule, SharedKotlinx_serialization_coreSerialKind, SharedKotlinNothing, SharedKoin_coreBeanDefinition<T>, SharedKoin_coreInstanceFactoryCompanion, SharedKoin_coreResolutionContext, SharedKtor_httpUrl, SharedKtor_httpHttpMethod, SharedKtor_httpOutgoingContent, SharedKtor_httpHttpStatusCode, SharedKtor_utilsGMTDate, SharedKtor_httpHttpProtocolVersion, SharedKotlinAbstractCoroutineContextElement, SharedKotlinx_coroutines_coreCoroutineDispatcherKey, SharedKtor_utilsTypeInfo, SharedKtor_httpHeadersBuilder, SharedKtor_client_coreHttpRequestBuilderCompanion, SharedKtor_httpURLBuilder, SharedKtor_client_coreHttpClientCallCompanion, SharedKoin_coreKind, SharedKoin_coreCallbacks<T>, SharedKtor_httpUrlCompanion, SharedKtor_httpURLProtocol, SharedKtor_httpHttpMethodCompanion, SharedKtor_httpContentType, SharedKotlinCancellationException, SharedKtor_httpHttpStatusCodeCompanion, SharedKtor_utilsWeekDay, SharedKtor_utilsMonth, SharedKtor_utilsGMTDateCompanion, SharedKtor_httpHttpProtocolVersionCompanion, SharedKotlinAbstractCoroutineContextKey<B, E>, SharedKtor_utilsStringValuesBuilderImpl, SharedKtor_httpURLBuilderCompanion, SharedKtor_httpURLProtocolCompanion, SharedKtor_httpHeaderValueParam, SharedKtor_httpHeaderValueWithParametersCompanion, SharedKtor_httpHeaderValueWithParameters, SharedKtor_httpContentTypeCompanion, SharedKtor_utilsWeekDayCompanion, SharedKtor_utilsMonthCompanion, SharedKotlinKTypeProjection, SharedKotlinByteArray, SharedKotlinx_io_coreBuffer, SharedKotlinKVariance, SharedKotlinKTypeProjectionCompanion, SharedKotlinByteIterator;
+@class SharedKoin_coreKoin, SharedMuseumRepository, SharedMuseumObject, SharedKtor_client_coreHttpClient, SharedKtorMuseumApiCompanion, SharedMuseumObjectCompanion, SharedModelsOrder, SharedModelsProduct, SharedModelsStory, SharedOrder, SharedProduct, SharedStory, SharedDataRepository, SharedKotlinArray<T>, SharedLifecycle_viewmodelViewModel, SharedKmp_observableviewmodel_coreViewModel, SharedDetailViewModel, SharedKotlinUnit, NSError, SharedListViewModel, SharedKoin_coreModule, SharedKoin_coreScope, SharedKoin_coreParametersHolder, SharedKotlinLazyThreadSafetyMode, SharedKoin_coreLogger, SharedKoin_coreExtensionManager, SharedKoin_coreInstanceRegistry, SharedKoin_corePropertyRegistry, SharedKoin_coreScopeRegistry, SharedKotlinThrowable, SharedKotlinException, SharedKotlinRuntimeException, SharedKotlinIllegalStateException, SharedKtor_client_coreHttpClientEngineConfig, SharedKtor_client_coreHttpClientConfig<T>, SharedKtor_eventsEvents, SharedKtor_client_coreHttpReceivePipeline, SharedKtor_client_coreHttpRequestPipeline, SharedKtor_client_coreHttpResponsePipeline, SharedKtor_client_coreHttpSendPipeline, SharedKoin_coreKoinDefinition<R>, SharedKoin_coreInstanceFactory<T>, SharedKoin_coreSingleInstanceFactory<T>, SharedKoin_coreScopeDSL, SharedKoin_coreLockable, SharedKotlinEnumCompanion, SharedKotlinEnum<E>, SharedKoin_coreLevel, SharedKoin_coreScopeRegistryCompanion, SharedKtor_client_coreHttpRequestData, SharedKtor_client_coreHttpResponseData, SharedKotlinx_coroutines_coreCoroutineDispatcher, SharedKtor_client_coreProxyConfig, SharedKtor_utilsAttributeKey<T>, SharedKtor_eventsEventDefinition<T>, SharedKtor_utilsPipelinePhase, SharedKtor_utilsPipeline<TSubject, TContext>, SharedKtor_client_coreHttpReceivePipelinePhases, SharedKtor_client_coreHttpResponse, SharedKtor_client_coreHttpRequestPipelinePhases, SharedKtor_client_coreHttpRequestBuilder, SharedKtor_client_coreHttpResponsePipelinePhases, SharedKtor_client_coreHttpResponseContainer, SharedKtor_client_coreHttpClientCall, SharedKtor_client_coreHttpSendPipelinePhases, SharedKotlinx_serialization_coreSerializersModule, SharedKotlinx_serialization_coreSerialKind, SharedKotlinNothing, SharedKoin_coreBeanDefinition<T>, SharedKoin_coreInstanceFactoryCompanion, SharedKoin_coreResolutionContext, SharedKtor_httpUrl, SharedKtor_httpHttpMethod, SharedKtor_httpOutgoingContent, SharedKtor_httpHttpStatusCode, SharedKtor_utilsGMTDate, SharedKtor_httpHttpProtocolVersion, SharedKotlinAbstractCoroutineContextElement, SharedKotlinx_coroutines_coreCoroutineDispatcherKey, SharedKtor_utilsTypeInfo, SharedKtor_httpHeadersBuilder, SharedKtor_client_coreHttpRequestBuilderCompanion, SharedKtor_httpURLBuilder, SharedKtor_client_coreHttpClientCallCompanion, SharedKoin_coreKind, SharedKoin_coreCallbacks<T>, SharedKtor_httpUrlCompanion, SharedKtor_httpURLProtocol, SharedKtor_httpHttpMethodCompanion, SharedKtor_httpContentType, SharedKotlinCancellationException, SharedKtor_httpHttpStatusCodeCompanion, SharedKtor_utilsWeekDay, SharedKtor_utilsMonth, SharedKtor_utilsGMTDateCompanion, SharedKtor_httpHttpProtocolVersionCompanion, SharedKotlinAbstractCoroutineContextKey<B, E>, SharedKtor_utilsStringValuesBuilderImpl, SharedKtor_httpURLBuilderCompanion, SharedKtor_httpURLProtocolCompanion, SharedKtor_httpHeaderValueParam, SharedKtor_httpHeaderValueWithParametersCompanion, SharedKtor_httpHeaderValueWithParameters, SharedKtor_httpContentTypeCompanion, SharedKtor_utilsWeekDayCompanion, SharedKtor_utilsMonthCompanion, SharedKotlinKTypeProjection, SharedKotlinByteArray, SharedKotlinx_io_coreBuffer, SharedKotlinKVariance, SharedKotlinKTypeProjectionCompanion, SharedKotlinByteIterator;
 
 @protocol SharedKoin_coreKoinComponent, SharedKotlinx_coroutines_coreFlow, SharedMuseumStorage, SharedMuseumApi, SharedKotlinx_serialization_coreKSerializer, SharedKotlinAutoCloseable, SharedKotlinx_coroutines_coreCoroutineScope, KMPOVMViewModelScope, SharedKoin_coreKoinScopeComponent, SharedKoin_coreQualifier, SharedKotlinKClass, SharedKotlinLazy, SharedKotlinx_coroutines_coreFlowCollector, SharedKotlinCoroutineContext, SharedKtor_ioCloseable, SharedKtor_client_coreHttpClientEngine, SharedKtor_client_coreHttpClientEngineCapability, SharedKtor_utilsAttributes, SharedKotlinx_serialization_coreEncoder, SharedKotlinx_serialization_coreSerialDescriptor, SharedKotlinx_serialization_coreSerializationStrategy, SharedKotlinx_serialization_coreDecoder, SharedKotlinx_serialization_coreDeserializationStrategy, SharedKotlinIterator, SharedKoin_coreScopeCallback, SharedKotlinKDeclarationContainer, SharedKotlinKAnnotatedElement, SharedKotlinKClassifier, SharedKotlinComparable, SharedKoin_coreKoinExtension, SharedKotlinCoroutineContextElement, SharedKotlinCoroutineContextKey, SharedKtor_client_coreHttpClientPlugin, SharedKotlinx_coroutines_coreDisposableHandle, SharedKotlinSuspendFunction2, SharedKotlinx_serialization_coreCompositeEncoder, SharedKotlinAnnotation, SharedKotlinx_serialization_coreCompositeDecoder, SharedKtor_httpHeaders, SharedKotlinx_coroutines_coreJob, SharedKotlinContinuation, SharedKotlinContinuationInterceptor, SharedKotlinx_coroutines_coreRunnable, SharedKotlinFunction, SharedKtor_httpHttpMessage, SharedKtor_ioByteReadChannel, SharedKtor_httpHttpMessageBuilder, SharedKtor_client_coreHttpRequest, SharedKotlinx_serialization_coreSerializersModuleCollector, SharedKtor_httpParameters, SharedKotlinMapEntry, SharedKtor_utilsStringValues, SharedKotlinx_coroutines_coreChildHandle, SharedKotlinx_coroutines_coreChildJob, SharedKotlinSequence, SharedKotlinx_coroutines_coreSelectClause0, SharedKotlinKType, SharedKotlinx_io_coreSource, SharedKtor_utilsStringValuesBuilder, SharedKtor_httpParametersBuilder, SharedKotlinx_coroutines_coreParentJob, SharedKotlinx_coroutines_coreSelectInstance, SharedKotlinx_coroutines_coreSelectClause, SharedKotlinx_io_coreRawSink, SharedKotlinx_io_coreRawSource, SharedKotlinx_io_coreSink;
 
@@ -270,6 +270,97 @@ __attribute__((swift_name("MuseumRepository")))
  * Other uncaught Kotlin exceptions are fatal.
 */
 - (void)refreshWithCompletionHandler:(void (^)(NSError * _Nullable))completionHandler __attribute__((swift_name("refresh(completionHandler:)")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Models")))
+@interface SharedModels : SharedBase
+- (instancetype)init __attribute__((swift_name("init()"))) __attribute__((objc_designated_initializer));
++ (instancetype)new __attribute__((availability(swift, unavailable, message="use object initializers instead")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Models.Order")))
+@interface SharedModelsOrder : SharedBase
+- (instancetype)initWithDeliveryDate:(NSString *)deliveryDate status:(NSString *)status __attribute__((swift_name("init(deliveryDate:status:)"))) __attribute__((objc_designated_initializer));
+- (SharedModelsOrder *)doCopyDeliveryDate:(NSString *)deliveryDate status:(NSString *)status __attribute__((swift_name("doCopy(deliveryDate:status:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) NSString *deliveryDate __attribute__((swift_name("deliveryDate")));
+@property (readonly) NSString *status __attribute__((swift_name("status")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Models.Product")))
+@interface SharedModelsProduct : SharedBase
+- (instancetype)initWithName:(NSString *)name description:(NSString *)description __attribute__((swift_name("init(name:description:)"))) __attribute__((objc_designated_initializer));
+- (SharedModelsProduct *)doCopyName:(NSString *)name description:(NSString *)description __attribute__((swift_name("doCopy(name:description:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) NSString *description_ __attribute__((swift_name("description_")));
+@property (readonly) NSString *name __attribute__((swift_name("name")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Models.Story")))
+@interface SharedModelsStory : SharedBase
+- (instancetype)initWithTitle:(NSString *)title description:(NSString *)description __attribute__((swift_name("init(title:description:)"))) __attribute__((objc_designated_initializer));
+- (SharedModelsStory *)doCopyTitle:(NSString *)title description:(NSString *)description __attribute__((swift_name("doCopy(title:description:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) NSString *description_ __attribute__((swift_name("description_")));
+@property (readonly) NSString *title __attribute__((swift_name("title")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Order")))
+@interface SharedOrder : SharedBase
+- (instancetype)initWithDate:(NSString *)date status:(NSString *)status __attribute__((swift_name("init(date:status:)"))) __attribute__((objc_designated_initializer));
+- (SharedOrder *)doCopyDate:(NSString *)date status:(NSString *)status __attribute__((swift_name("doCopy(date:status:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) NSString *date __attribute__((swift_name("date")));
+@property (readonly) NSString *status __attribute__((swift_name("status")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Product")))
+@interface SharedProduct : SharedBase
+- (instancetype)initWithName:(NSString *)name description:(NSString *)description __attribute__((swift_name("init(name:description:)"))) __attribute__((objc_designated_initializer));
+- (SharedProduct *)doCopyName:(NSString *)name description:(NSString *)description __attribute__((swift_name("doCopy(name:description:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) NSString *description_ __attribute__((swift_name("description_")));
+@property (readonly) NSString *name __attribute__((swift_name("name")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("Story")))
+@interface SharedStory : SharedBase
+- (instancetype)initWithTitle:(NSString *)title description:(NSString *)description __attribute__((swift_name("init(title:description:)"))) __attribute__((objc_designated_initializer));
+- (SharedStory *)doCopyTitle:(NSString *)title description:(NSString *)description __attribute__((swift_name("doCopy(title:description:)")));
+- (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
+- (NSUInteger)hash __attribute__((swift_name("hash()")));
+- (NSString *)description __attribute__((swift_name("description()")));
+@property (readonly) NSString *description_ __attribute__((swift_name("description_")));
+@property (readonly) NSString *title __attribute__((swift_name("title")));
+@end
+
+__attribute__((objc_subclassing_restricted))
+__attribute__((swift_name("DataRepository")))
+@interface SharedDataRepository : SharedBase
++ (instancetype)alloc __attribute__((unavailable));
++ (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
++ (instancetype)dataRepository __attribute__((swift_name("init()")));
+@property (class, readonly, getter=shared) SharedDataRepository *shared __attribute__((swift_name("shared")));
+- (NSArray<SharedOrder *> *)getOrders __attribute__((swift_name("getOrders()")));
+- (NSArray<SharedProduct *> *)getProducts __attribute__((swift_name("getProducts()")));
+- (NSArray<SharedStory *> *)getStories __attribute__((swift_name("getStories()")));
 @end
 
 __attribute__((swift_name("Lifecycle_viewmodelViewModel")))

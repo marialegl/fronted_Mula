@@ -24,7 +24,7 @@
 17-->[androidx.core:core:1.13.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/d76fc11c52c5b22916d2affd2d5a6667/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
 18
 19    <application
-19-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:6:5-28:19
+19-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:6:5-31:19
 20        android:name="com.jetbrains.kmpapp.MuseumApp"
 20-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:7:9-34
 21        android:allowBackup="true"
@@ -41,120 +41,125 @@
 27-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:11:9-54
 28        android:supportsRtl="true"
 28-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:12:9-35
-29        android:testOnly="true"
-30        android:theme="@android:style/Theme.Material.Light.NoActionBar" >
-30-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:13:9-72
-31        <activity
-31-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:15:9-16:72
-32            android:name="com.jetbrains.kmpapp.SplashActivity"
-32-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:16:13-43
-33            android:exported="false" />
-33-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:16:45-69
-34        <activity
-34-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:16:74-26:16
-35            android:name="com.jetbrains.kmpapp.MainActivity"
-35-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:17:9-37
-36            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden|mnc|colorMode|density|fontScale|fontWeightAdjustment|keyboard|layoutDirection|locale|mcc|navigation|smallestScreenSize|touchscreen|uiMode"
-36-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:18:9-221
-37            android:exported="true"
-37-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:19:9-32
-38            android:windowSoftInputMode="adjustResize" >
-38-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:20:9-51
-39            <intent-filter>
-39-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:21:9-25:25
-40                <action android:name="android.intent.action.MAIN" />
-40-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:22:13-65
-40-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:22:21-62
-41
-42                <category android:name="android.intent.category.LAUNCHER" />
-42-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:24:13-73
-42-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:24:23-70
-43            </intent-filter>
-44        </activity>
-45
-46        <provider
-46-->[org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/101922563b6e611354deee6184a6db9c/transformed/library-release/AndroidManifest.xml:8:9-13:20
-47            android:name="org.jetbrains.compose.resources.AndroidContextProvider"
-47-->[org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/101922563b6e611354deee6184a6db9c/transformed/library-release/AndroidManifest.xml:9:13-82
-48            android:authorities="com.jetbrains.kmpapp.resources.AndroidContextProvider"
-48-->[org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/101922563b6e611354deee6184a6db9c/transformed/library-release/AndroidManifest.xml:10:13-84
-49            android:enabled="true"
-49-->[org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/101922563b6e611354deee6184a6db9c/transformed/library-release/AndroidManifest.xml:11:13-35
-50            android:exported="false" >
-50-->[org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/101922563b6e611354deee6184a6db9c/transformed/library-release/AndroidManifest.xml:12:13-37
-51        </provider>
-52        <provider
-52-->[androidx.emoji2:emoji2:1.3.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/e7d7f59b1062039bb894a56ea08e1702/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
-53            android:name="androidx.startup.InitializationProvider"
-53-->[androidx.emoji2:emoji2:1.3.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/e7d7f59b1062039bb894a56ea08e1702/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
-54            android:authorities="com.jetbrains.kmpapp.androidx-startup"
-54-->[androidx.emoji2:emoji2:1.3.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/e7d7f59b1062039bb894a56ea08e1702/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
-55            android:exported="false" >
-55-->[androidx.emoji2:emoji2:1.3.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/e7d7f59b1062039bb894a56ea08e1702/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
-56            <meta-data
-56-->[androidx.emoji2:emoji2:1.3.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/e7d7f59b1062039bb894a56ea08e1702/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
-57                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-57-->[androidx.emoji2:emoji2:1.3.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/e7d7f59b1062039bb894a56ea08e1702/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
-58                android:value="androidx.startup" />
-58-->[androidx.emoji2:emoji2:1.3.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/e7d7f59b1062039bb894a56ea08e1702/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
-59            <meta-data
-59-->[androidx.lifecycle:lifecycle-process:2.8.6] /Users/julioluque/.gradle/caches/8.10.2/transforms/ee6ab3f479368700803fed9ead63f129/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:29:13-31:52
-60                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-60-->[androidx.lifecycle:lifecycle-process:2.8.6] /Users/julioluque/.gradle/caches/8.10.2/transforms/ee6ab3f479368700803fed9ead63f129/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:30:17-78
-61                android:value="androidx.startup" />
-61-->[androidx.lifecycle:lifecycle-process:2.8.6] /Users/julioluque/.gradle/caches/8.10.2/transforms/ee6ab3f479368700803fed9ead63f129/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:31:17-49
-62            <meta-data
-62-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:29:13-31:52
-63                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-63-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:30:17-85
-64                android:value="androidx.startup" />
-64-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:31:17-49
-65        </provider>
-66
-67        <activity
-67-->[androidx.compose.ui:ui-tooling-android:1.7.4] /Users/julioluque/.gradle/caches/8.10.2/transforms/b19a4286cbef10e96a0ae3316d00d0be/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
-68            android:name="androidx.compose.ui.tooling.PreviewActivity"
-68-->[androidx.compose.ui:ui-tooling-android:1.7.4] /Users/julioluque/.gradle/caches/8.10.2/transforms/b19a4286cbef10e96a0ae3316d00d0be/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
-69            android:exported="true" />
-69-->[androidx.compose.ui:ui-tooling-android:1.7.4] /Users/julioluque/.gradle/caches/8.10.2/transforms/b19a4286cbef10e96a0ae3316d00d0be/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
-70
-71        <receiver
-71-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:34:9-52:20
-72            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-72-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:35:13-76
-73            android:directBootAware="false"
-73-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:36:13-44
-74            android:enabled="true"
-74-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:37:13-35
-75            android:exported="true"
-75-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:38:13-36
-76            android:permission="android.permission.DUMP" >
-76-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:39:13-57
-77            <intent-filter>
-77-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:40:13-42:29
-78                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-78-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:41:17-91
-78-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:41:25-88
-79            </intent-filter>
-80            <intent-filter>
-80-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:43:13-45:29
-81                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-81-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:44:17-85
-81-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:44:25-82
-82            </intent-filter>
-83            <intent-filter>
-83-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:46:13-48:29
-84                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-84-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:47:17-88
-84-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:47:25-85
-85            </intent-filter>
-86            <intent-filter>
-86-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:49:13-51:29
-87                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-87-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:50:17-95
-87-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:50:25-92
-88            </intent-filter>
-89        </receiver>
-90    </application>
-91
-92</manifest>
+29        android:theme="@android:style/Theme.Material.Light.NoActionBar" >
+29-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:13:9-72
+30        <activity
+30-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:14:9-16:40
+31            android:name="com.jetbrains.mula.MainActivity"
+31-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:15:13-59
+32            android:exported="false" />
+32-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:16:13-37
+33        <activity
+33-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:17:9-19:40
+34            android:name="com.jetbrains.kmpapp.SplashActivity"
+34-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:18:13-43
+35            android:exported="false" />
+35-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:19:13-37
+36        <activity
+36-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:20:9-30:20
+37            android:name="com.jetbrains.kmpapp.MainActivity"
+37-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:21:13-41
+38            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden|mnc|colorMode|density|fontScale|fontWeightAdjustment|keyboard|layoutDirection|locale|mcc|navigation|smallestScreenSize|touchscreen|uiMode"
+38-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:22:13-225
+39            android:exported="true"
+39-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:23:13-36
+40            android:windowSoftInputMode="adjustResize" >
+40-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:24:13-55
+41            <intent-filter>
+41-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:25:13-29:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:26:17-69
+42-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:26:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:28:17-77
+44-->/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:28:27-74
+45            </intent-filter>
+46        </activity>
+47
+48        <provider
+48-->[org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/101922563b6e611354deee6184a6db9c/transformed/library-release/AndroidManifest.xml:8:9-13:20
+49            android:name="org.jetbrains.compose.resources.AndroidContextProvider"
+49-->[org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/101922563b6e611354deee6184a6db9c/transformed/library-release/AndroidManifest.xml:9:13-82
+50            android:authorities="com.jetbrains.kmpapp.resources.AndroidContextProvider"
+50-->[org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/101922563b6e611354deee6184a6db9c/transformed/library-release/AndroidManifest.xml:10:13-84
+51            android:enabled="true"
+51-->[org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/101922563b6e611354deee6184a6db9c/transformed/library-release/AndroidManifest.xml:11:13-35
+52            android:exported="false" >
+52-->[org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/101922563b6e611354deee6184a6db9c/transformed/library-release/AndroidManifest.xml:12:13-37
+53        </provider>
+54        <provider
+54-->[androidx.emoji2:emoji2:1.3.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/e7d7f59b1062039bb894a56ea08e1702/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+55            android:name="androidx.startup.InitializationProvider"
+55-->[androidx.emoji2:emoji2:1.3.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/e7d7f59b1062039bb894a56ea08e1702/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+56            android:authorities="com.jetbrains.kmpapp.androidx-startup"
+56-->[androidx.emoji2:emoji2:1.3.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/e7d7f59b1062039bb894a56ea08e1702/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+57            android:exported="false" >
+57-->[androidx.emoji2:emoji2:1.3.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/e7d7f59b1062039bb894a56ea08e1702/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+58            <meta-data
+58-->[androidx.emoji2:emoji2:1.3.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/e7d7f59b1062039bb894a56ea08e1702/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+59                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+59-->[androidx.emoji2:emoji2:1.3.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/e7d7f59b1062039bb894a56ea08e1702/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+60                android:value="androidx.startup" />
+60-->[androidx.emoji2:emoji2:1.3.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/e7d7f59b1062039bb894a56ea08e1702/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+61            <meta-data
+61-->[androidx.lifecycle:lifecycle-process:2.8.6] /Users/julioluque/.gradle/caches/8.10.2/transforms/ee6ab3f479368700803fed9ead63f129/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:29:13-31:52
+62                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+62-->[androidx.lifecycle:lifecycle-process:2.8.6] /Users/julioluque/.gradle/caches/8.10.2/transforms/ee6ab3f479368700803fed9ead63f129/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:30:17-78
+63                android:value="androidx.startup" />
+63-->[androidx.lifecycle:lifecycle-process:2.8.6] /Users/julioluque/.gradle/caches/8.10.2/transforms/ee6ab3f479368700803fed9ead63f129/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:31:17-49
+64            <meta-data
+64-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:29:13-31:52
+65                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+65-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:30:17-85
+66                android:value="androidx.startup" />
+66-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:31:17-49
+67        </provider>
+68
+69        <activity
+69-->[androidx.compose.ui:ui-tooling-android:1.7.4] /Users/julioluque/.gradle/caches/8.10.2/transforms/b19a4286cbef10e96a0ae3316d00d0be/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+70            android:name="androidx.compose.ui.tooling.PreviewActivity"
+70-->[androidx.compose.ui:ui-tooling-android:1.7.4] /Users/julioluque/.gradle/caches/8.10.2/transforms/b19a4286cbef10e96a0ae3316d00d0be/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+71            android:exported="true" />
+71-->[androidx.compose.ui:ui-tooling-android:1.7.4] /Users/julioluque/.gradle/caches/8.10.2/transforms/b19a4286cbef10e96a0ae3316d00d0be/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+72
+73        <receiver
+73-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:34:9-52:20
+74            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+74-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:35:13-76
+75            android:directBootAware="false"
+75-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:36:13-44
+76            android:enabled="true"
+76-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:37:13-35
+77            android:exported="true"
+77-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:38:13-36
+78            android:permission="android.permission.DUMP" >
+78-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:39:13-57
+79            <intent-filter>
+79-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:40:13-42:29
+80                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+80-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:41:17-91
+80-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:41:25-88
+81            </intent-filter>
+82            <intent-filter>
+82-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:43:13-45:29
+83                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+83-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:44:17-85
+83-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:44:25-82
+84            </intent-filter>
+85            <intent-filter>
+85-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:46:13-48:29
+86                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+86-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:47:17-88
+86-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:47:25-85
+87            </intent-filter>
+88            <intent-filter>
+88-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:49:13-51:29
+89                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+89-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:50:17-95
+89-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/922c24e2a3df36adcbf303c249852ba3/transformed/profileinstaller-1.4.1/AndroidManifest.xml:50:25-92
+90            </intent-filter>
+91        </receiver>
+92    </application>
+93
+94</manifest>

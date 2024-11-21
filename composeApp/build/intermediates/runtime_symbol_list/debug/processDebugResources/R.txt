@@ -3386,6 +3386,7 @@ int id linear 0x7f0800fa
 int id listMode 0x7f0800fb
 int id list_item 0x7f0800fc
 int id m3_side_sheet 0x7f0800fd
+int id main 0x7f0800fe
 int id marquee 0x7f0800ff
 int id masked 0x7f080100
 int id match_constraint 0x7f080101
@@ -3763,6 +3764,7 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0b0018
 int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
+int layout activity_main 0x7f0b001c
 int layout custom_dialog 0x7f0b001d
 int layout design_bottom_navigation_item 0x7f0b001e
 int layout design_bottom_sheet_dialog 0x7f0b001f
