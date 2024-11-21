@@ -1,14 +1,28 @@
 R_DEF: Internal format may change without notice
 local
-color splash_background_color
+color background
+color normal
+color primary_1
+color primary_2
+color primary_3
+color second_4
+color subtle_1
+color subtle_2
+color text_1
+color third_1
+color third_2
+color third_3
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable mula
+drawable mula_round
 drawable splash_background
 id main
 layout activity_main
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap mula
+mipmap mula_round
 string app_name
 string back
 string label_artist

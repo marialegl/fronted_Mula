@@ -1,0 +1,12 @@
+/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/kotlin/com/jetbrains/mula/MainActivity.kt
+/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/kotlin/com/jetbrains/mula/screens/ListScreen.kt
+/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/main/java/com/jetbrains/mula/MainActivity.kt
+/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/kotlin/com/jetbrains/mula/screens/DetailScreen.kt
+/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/kotlin/com/jetbrains/mula/SplashActivity.kt
+/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/main/java/com/jetbrains/mula/ui/screens/HomeScreen.kt
+/Users/julioluque/StudioProjects/fronted_Mula/composeApp/build/generated/compose/resourceGenerator/kotlin/androidMainResourceCollectors/kmp_app_template_native/composeapp/generated/resources/ActualResourceCollectors.kt
+/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/kotlin/com/jetbrains/mula/screens/EmptyScreenContent.kt
+/Users/julioluque/StudioProjects/fronted_Mula/composeApp/build/generated/compose/resourceGenerator/kotlin/commonResClass/kmp_app_template_native/composeapp/generated/resources/Res.kt
+/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/kotlin/com/jetbrains/mula/MuseumApp.kt
+/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/kotlin/com/jetbrains/mula/App.kt
+/Users/julioluque/StudioProjects/fronted_Mula/composeApp/build/generated/compose/resourceGenerator/kotlin/commonMainResourceCollectors/kmp_app_template_native/composeapp/generated/resources/ExpectResourceCollectors.kt

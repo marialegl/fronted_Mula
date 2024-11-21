@@ -6,21 +6,22 @@
 //  Copyright © 2024 orgName. All rights reserved.
 //
 
-import SwiftUI
-import shared
 
 struct ContentView: View {
-    var body: some View {
-        // Obtener datos desde el repositorio
-        let lastOrders = DataRepository().getOrders()
-        let stories = DataRepository().getStories()
-        let products = DataRepository().getProducts()
+    // Variables para almacenar los datos
+    @State var lastOrders = [Order]() // Ajusta el tipo según tu modelo de datos
+    @State var stories = [Story]() // Ajusta el tipo según tu modelo de datos
+    @State var products = [Product]() // Ajusta el tipo según tu modelo de datos
 
-        // Mostrar la pantalla
-        HomeScreen(
-            lastOrders: lastOrders,
-            stories: stories,
-            products: products
-        )
+    var body: some View {
+        // Inicializa los datos al crear la vista
+        onAppear {
+            lastOrders = DataRepository().getOrders()
+            stories = DataRepository().getStories()
+            products = DataRepository().getProducts()
+        }
+
+        // Resto de tu vista
+        // ...
     }
 }
