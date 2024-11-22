@@ -4,12 +4,14 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.activity.compose.setContent
 import com.jetbrains.mula.ui.screens.HomeScreen
-import repositories.DataRepository
+import com.jetbrains.screens.repositories.DataRepository
 
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
+        setTheme(R.style.Theme_App)
         super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
         setContent {
             // Obtener datos desde el repositorio
             val lastOrders = DataRepository.getOrders()

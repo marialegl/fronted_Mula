@@ -1,4 +1,4 @@
-/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/kotlin/com/jetbrains/mula/MainActivity.kt
+/Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/kotlin/com/jetbrains/mula/strings/LocalizedStrings.kt
 /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/kotlin/com/jetbrains/mula/screens/ListScreen.kt
 /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/main/java/com/jetbrains/mula/MainActivity.kt
 /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/kotlin/com/jetbrains/mula/screens/DetailScreen.kt

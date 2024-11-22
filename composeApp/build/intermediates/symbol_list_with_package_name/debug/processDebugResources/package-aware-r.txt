@@ -3046,6 +3046,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable ic_100tb
 drawable ic_arrow_back_black_24
 drawable ic_call_answer
 drawable ic_call_answer_low
@@ -3270,6 +3271,7 @@ id clip_vertical
 id clockwise
 id closest
 id coil3_request_manager
+id coil_request_manager
 id collapseActionView
 id compose_view_saveable_id_tag
 id compress
@@ -3858,7 +3860,6 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
-mipmap ic_launcher_round
 mipmap mula
 mipmap mula_round
 plurals mtrl_badge_content_description
@@ -4100,6 +4101,7 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string range_end
 string range_start
+string search
 string search_menu_title
 string searchbar_scrolling_view_behavior
 string searchview_clear_text_content_description

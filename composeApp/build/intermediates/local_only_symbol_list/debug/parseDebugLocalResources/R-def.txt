@@ -20,7 +20,6 @@ drawable splash_background
 id main
 layout activity_main
 mipmap ic_launcher
-mipmap ic_launcher_round
 mipmap mula
 mipmap mula_round
 string app_name
@@ -34,3 +33,5 @@ string label_medium
 string label_repository
 string label_title
 string no_data_available
+string search
+style Theme.Splash

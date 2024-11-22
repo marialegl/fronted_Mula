@@ -1,118 +1,122 @@
 [
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-mdpi_mula_round.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-mdpi/mula_round.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/layout_activity_main.xml.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-main-73:/layout/activity_main.xml"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/drawable_mula.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/drawable/mula.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-hdpi_mula_round.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-hdpi/mula_round.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-xxxhdpi_mula.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-xxxhdpi/mula.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-xxxhdpi_mula.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-xxxhdpi/mula.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-xxhdpi_mula.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-xxhdpi/mula.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-xxxhdpi_mula_round.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-xxxhdpi/mula_round.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/drawable/ic_launcher_background.xml"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-hdpi_mula.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-hdpi/mula.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-xxxhdpi_mula_round.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-xxxhdpi/mula_round.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-xxhdpi_mula_round.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-xxhdpi/mula_round.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-xxhdpi_mula_round.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-xxhdpi/mula_round.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/drawable_splash_background.xml.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/drawable/splash_background.xml"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/drawable_mula.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/drawable/mula.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/drawable_splash_background.xml.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/drawable/splash_background.xml"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-xhdpi_mula_round.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-xhdpi/mula_round.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-anydpi-v26_mula.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-anydpi-v26/mula.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/drawable-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-anydpi-v26_mula_round.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-anydpi-v26/mula_round.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-anydpi-v26_mula.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-anydpi-v26/mula.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/drawable_mula_round.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/drawable/mula_round.png"
+        "merged": "com.jetbrains.kmpapp.composeApp-debug-69:/drawable_splash_background.xml.flat",
+        "source": "com.jetbrains.kmpapp.composeApp-androidMain-71:/drawable/splash_background.xml"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-mdpi_mula.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-mdpi/mula.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-hdpi_mula.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-hdpi/mula.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-anydpi-v26_mula_round.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-anydpi-v26/mula_round.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-hdpi_mula_round.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-hdpi/mula_round.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/drawable_mula_round.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/drawable/mula_round.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-xxhdpi_mula.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-xxhdpi/mula.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-mdpi_mula_round.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-mdpi/mula_round.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-mdpi_mula.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-mdpi/mula.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/layout_activity_main.xml.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-main-72:/layout/activity_main.xml"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-xhdpi_mula_round.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-xhdpi/mula_round.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-xhdpi_mula.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-xhdpi/mula.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.jetbrains.kmpapp.composeApp-debug-68:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.jetbrains.kmpapp.composeApp-androidMain-70:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-debug-69:/mipmap-xhdpi_mula.png.flat",
+        "source": "/Users/julioluque/.gradle/daemon/8.10.2/com.jetbrains.kmpapp.composeApp-androidMain-71:/mipmap-xhdpi/mula.png"
     }
 ]

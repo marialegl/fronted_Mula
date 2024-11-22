@@ -658,6 +658,7 @@
 		440311B02CEFA67200B9CB9C /* Shared.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44030A872CEFA67200B9CB9C /* Shared.framework */; };
 		440311B12CEFA67200B9CB9C /* shared-iosarm64-metadata.jar in Frameworks */ = {isa = PBXBuildFile; fileRef = 44030EA32CEFA67200B9CB9C /* shared-iosarm64-metadata.jar */; };
 		440311B22CEFA67200B9CB9C /* Shared.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44030A8E2CEFA67200B9CB9C /* Shared.framework */; };
+		440311B42CF124BA00B9CB9C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 440311B32CF1249400B9CB9C /* LaunchScreen.storyboard */; };
 		7555FF83242A565900829871 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7555FF82242A565900829871 /* ListView.swift */; };
 		EB049AFF2C1AEB680032A688 /* KMPObservableViewModelCore in Frameworks */ = {isa = PBXBuildFile; productRef = EB049AFE2C1AEB680032A688 /* KMPObservableViewModelCore */; };
 		EB049B012C1AEB680032A688 /* KMPObservableViewModelSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = EB049B002C1AEB680032A688 /* KMPObservableViewModelSwiftUI */; };
@@ -1320,6 +1321,7 @@
 		44030F212CEFA67200B9CB9C /* ListViewModel.kt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ListViewModel.kt; sourceTree = "<group>"; };
 		44030F282CEFA67200B9CB9C /* KoinDependencies.kt */ = {isa = PBXFileReference; lastKnownFileType = text; path = KoinDependencies.kt; sourceTree = "<group>"; };
 		44030F2F2CEFA67200B9CB9C /* build.gradle.kts */ = {isa = PBXFileReference; lastKnownFileType = text; path = build.gradle.kts; sourceTree = "<group>"; };
+		440311B32CF1249400B9CB9C /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7555FF7B242A565900829871 /* KMP App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "KMP App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7555FF82242A565900829871 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 		7555FF8C242A565B00829871 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -7356,6 +7358,7 @@
 		7555FF7D242A565900829871 /* iosApp */ = {
 			isa = PBXGroup;
 			children = (
+				440311B32CF1249400B9CB9C /* LaunchScreen.storyboard */,
 				44030A172CEF8C5000B9CB9C /* ContentView.swift */,
 				44030A152CEF889000B9CB9C /* HomeScreen.swift */,
 				44030A132CEEA42300B9CB9C /* AppDelegate.swift */,
@@ -7961,6 +7964,7 @@
 				4403112E2CEFA67200B9CB9C /* manifest in Resources */,
 				4403112F2CEFA67200B9CB9C /* 9AvMq+gm5hWRZ0Q_fxmMZEEFxh8= in Resources */,
 				440311302CEFA67200B9CB9C /* out in Resources */,
+				440311B42CF124BA00B9CB9C /* LaunchScreen.storyboard in Resources */,
 				440311312CEFA67200B9CB9C /* source-to-output.tab_i in Resources */,
 				440311322CEFA67200B9CB9C /* source-to-classes.tab_i.len in Resources */,
 				440311332CEFA67200B9CB9C /* package-parts.tab in Resources */,

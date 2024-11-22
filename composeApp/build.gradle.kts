@@ -26,6 +26,10 @@ kotlin {
             implementation(libs.koin.androidx.compose)
             implementation(libs.coil.compose)
             implementation(libs.coil.network.ktor)
+
+            implementation("io.coil-kt:coil-compose:2.2.2")
+            implementation("io.coil-kt:coil:2.2.2")
+
         }
         commonMain.dependencies {
             implementation(compose.runtime)

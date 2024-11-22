@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.jetbrains.kmpapp.composeApp-mergeDebugResources-66:/values-my/values-my.xml",
+            "outputFile": "com.jetbrains.kmpapp.composeApp-mergeDebugResources-67:/values-my/values-my.xml",
             "map": [
                 {
                     "source": "/Users/julioluque/.gradle/caches/8.10.2/transforms/17d0c4203ad8726b4789691885ad78a5/transformed/foundation-release/res/values-my/values-my.xml",

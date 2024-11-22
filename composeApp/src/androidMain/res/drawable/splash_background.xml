@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <!-- res/drawable/splash_background.xml -->
-
-    <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
-        <item android:drawable="@color/normal" />
-        <item>
-            <bitmap
-                android:gravity="center"
-                android:src="@drawable/mula" />
-        </item>
-    </layer-list>
-
-
-</selector>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/normal" />
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/mula" />
+    </item>
+</layer-list>

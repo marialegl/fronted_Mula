@@ -1,4 +1,0 @@
-com.jetbrains.kmpapp.test.composeApp-androidTest-0 /Users/julioluque/StudioProjects/fronted_Mula/composeApp/build/generated/res/resValues/androidTest/debug
-com.jetbrains.kmpapp.test.composeApp-mergeDebugAndroidTestResources-1 /Users/julioluque/StudioProjects/fronted_Mula/composeApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-com.jetbrains.kmpapp.test.composeApp-mergeDebugAndroidTestResources-2 /Users/julioluque/StudioProjects/fronted_Mula/composeApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-com.jetbrains.kmpapp.test.composeApp-debugAndroidTest-3 /Users/julioluque/StudioProjects/fronted_Mula/composeApp/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

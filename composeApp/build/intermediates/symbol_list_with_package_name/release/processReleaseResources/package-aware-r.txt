@@ -1391,6 +1391,7 @@ color accent_material_dark
 color accent_material_light
 color androidx_core_ripple_material_light
 color androidx_core_secondary_text_default_material_light
+color background
 color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
@@ -2111,8 +2112,12 @@ color mtrl_textinput_disabled_color
 color mtrl_textinput_filled_box_default_background_color
 color mtrl_textinput_focused_box_stroke_color
 color mtrl_textinput_hovered_box_stroke_color
+color normal
 color notification_action_color_filter
 color notification_icon_bg_color
+color primary_1
+color primary_2
+color primary_3
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -2123,17 +2128,23 @@ color primary_text_disabled_material_dark
 color primary_text_disabled_material_light
 color ripple_material_dark
 color ripple_material_light
+color second_4
 color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
 color secondary_text_disabled_material_light
-color splash_background_color
+color subtle_1
+color subtle_2
 color switch_thumb_disabled_material_dark
 color switch_thumb_disabled_material_light
 color switch_thumb_material_dark
 color switch_thumb_material_light
 color switch_thumb_normal_material_dark
 color switch_thumb_normal_material_light
+color text_1
+color third_1
+color third_2
+color third_3
 color tooltip_background_dark
 color tooltip_background_light
 color vector_tint_color
@@ -3035,6 +3046,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable ic_100tb
 drawable ic_arrow_back_black_24
 drawable ic_call_answer
 drawable ic_call_answer_low
@@ -3115,6 +3127,7 @@ drawable mtrl_switch_track
 drawable mtrl_switch_track_decoration
 drawable mtrl_tabs_default_indicator
 drawable mula
+drawable mula_round
 drawable navigation_empty_icon
 drawable notification_action_background
 drawable notification_bg
@@ -3258,6 +3271,7 @@ id clip_vertical
 id clockwise
 id closest
 id coil3_request_manager
+id coil_request_manager
 id collapseActionView
 id compose_view_saveable_id_tag
 id compress
@@ -3848,6 +3862,7 @@ layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
 mipmap mula
+mipmap mula_round
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description
 string abc_action_bar_up_description

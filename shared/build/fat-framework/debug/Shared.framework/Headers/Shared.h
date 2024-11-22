@@ -318,12 +318,13 @@ __attribute__((swift_name("Models.Story")))
 __attribute__((objc_subclassing_restricted))
 __attribute__((swift_name("Order")))
 @interface SharedOrder : SharedBase
-- (instancetype)initWithDate:(NSString *)date status:(NSString *)status __attribute__((swift_name("init(date:status:)"))) __attribute__((objc_designated_initializer));
-- (SharedOrder *)doCopyDate:(NSString *)date status:(NSString *)status __attribute__((swift_name("doCopy(date:status:)")));
+- (instancetype)initWithDate:(NSString *)date status:(NSString *)status deliveryDate:(id)deliveryDate __attribute__((swift_name("init(date:status:deliveryDate:)"))) __attribute__((objc_designated_initializer));
+- (SharedOrder *)doCopyDate:(NSString *)date status:(NSString *)status deliveryDate:(id)deliveryDate __attribute__((swift_name("doCopy(date:status:deliveryDate:)")));
 - (BOOL)isEqual:(id _Nullable)other __attribute__((swift_name("isEqual(_:)")));
 - (NSUInteger)hash __attribute__((swift_name("hash()")));
 - (NSString *)description __attribute__((swift_name("description()")));
 @property (readonly) NSString *date __attribute__((swift_name("date")));
+@property (readonly) id deliveryDate __attribute__((swift_name("deliveryDate")));
 @property (readonly) NSString *status __attribute__((swift_name("status")));
 @end
 

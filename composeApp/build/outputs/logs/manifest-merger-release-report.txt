@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:2:1-32:12
-INJECTED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:2:1-32:12
-INJECTED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:2:1-32:12
-INJECTED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:2:1-32:12
+ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:2:1-39:12
 MERGED from [androidx.navigation:navigation-common:2.8.3] /Users/julioluque/.gradle/caches/8.10.2/transforms/1129a98186de9553a1a12c680f71d778/transformed/navigation-common-2.8.3/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime:2.8.3] /Users/julioluque/.gradle/caches/8.10.2/transforms/e2775817ea99396eba50c2ddea899331/transformed/navigation-runtime-2.8.3/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common-ktx:2.8.3] /Users/julioluque/.gradle/caches/8.10.2/transforms/fd3a52cb8f1a8149b0ddcc2787ab485a/transformed/navigation-common-ktx-2.8.3/AndroidManifest.xml:2:1-7:12
@@ -13,6 +13,10 @@ MERGED from [com.google.android.material:material:1.12.0] /Users/julioluque/.gra
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/7fac027ce845ebf46ab304e3581b255d/transformed/constraintlayout-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [io.insert-koin:koin-androidx-compose:4.0.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/2ecf54080ad2360cccd31db96776f481/transformed/koin-androidx-compose-4.0.0/AndroidManifest.xml:2:1-7:12
 MERGED from [io.insert-koin:koin-android:4.0.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/d24c99090106db4d2114de399ea49d0e/transformed/koin-android-4.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-compose:2.2.2] /Users/julioluque/.gradle/caches/8.10.2/transforms/2dbd56da764614e7f878ac95449227cf/transformed/coil-compose-2.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil:2.2.2] /Users/julioluque/.gradle/caches/8.10.2/transforms/1dad2bcfd9d887d2695375671e364909/transformed/coil-2.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-compose-base:2.2.2] /Users/julioluque/.gradle/caches/8.10.2/transforms/49931000deede3b6dc11bdb8e0a73628/transformed/coil-compose-base-2.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-base:2.2.2] /Users/julioluque/.gradle/caches/8.10.2/transforms/c6b04140fc7962d0fdcf842980d8cc4b/transformed/coil-base-2.2.2/AndroidManifest.xml:2:1-9:12
 MERGED from [io.coil-kt.coil3:coil-network-ktor3-android:3.0.0-rc02] /Users/julioluque/.gradle/caches/8.10.2/transforms/f5e794d7fbd7700c84f6450aa383b4b6/transformed/coil-network-ktor3-release/AndroidManifest.xml:2:1-7:12
 MERGED from [io.coil-kt.coil3:coil-compose-android:3.0.0-rc02] /Users/julioluque/.gradle/caches/8.10.2/transforms/bfc19060841b08e09be2af5b7f4becdb/transformed/coil-compose-release/AndroidManifest.xml:2:1-7:12
 MERGED from [io.coil-kt.coil3:coil-android:3.0.0-rc02] /Users/julioluque/.gradle/caches/8.10.2/transforms/71040bfd55d1ee3c60d6d6f264c365b0/transformed/coil-release/AndroidManifest.xml:2:1-7:12
@@ -98,17 +102,39 @@ MERGED from [androidx.exifinterface:exifinterface:1.3.7] /Users/julioluque/.grad
 		INJECTED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:2:11-69
-uses-permission#android.permission.INTERNET
-ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:4:5-67
+uses-feature#android.hardware.camera
+ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:5:5-7:36
+	android:required
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:7:9-33
 	android:name
-		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:4:22-64
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:6:9-47
+uses-permission#android.permission.INTERNET
+ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:10:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:12:5-13:39
+	tools:ignore
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:13:9-37
+	android:name
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:12:22-78
 application
-ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:6:5-30:19
-INJECTED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:6:5-30:19
+ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:16:5-37:19
+INJECTED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:16:5-37:19
 MERGED from [com.google.android.material:material:1.12.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/fe477d094b60261aea259aa9e272eae1/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/fe477d094b60261aea259aa9e272eae1/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/7fac027ce845ebf46ab304e3581b255d/transformed/constraintlayout-2.2.0/AndroidManifest.xml:7:5-20
@@ -133,46 +159,44 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/julioluque/.gradle/c
 		INJECTED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] /Users/julioluque/.gradle/caches/8.10.2/transforms/d76fc11c52c5b22916d2affd2d5a6667/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:21:9-35
 	android:label
-		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:10:9-41
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:19:9-29
+	android:roundIcon
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:20:9-47
 	android:icon
-		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:9:9-36
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:18:9-36
+	android:allowBackup
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:17:9-35
 	android:theme
-		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:11:9-65
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:22:9-72
+activity#com.jetbrains.mula.SplashActivity
+ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:25:13-37
 	android:name
-		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:8:9-29
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:24:13-61
 activity#com.jetbrains.mula.MainActivity
-ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:13:9-15:40
-	android:exported
-		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:15:13-37
-	android:name
-		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:14:13-59
-activity#kotlin.com.jetbrains.mula.screens.SplashActivity
-ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:16:9-18:40
-	android:exported
-		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:18:13-37
-	android:name
-		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:17:13-76
-activity#com.jetbrains.kmpapp.MainActivity
-ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:19:9-29:20
+ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:26:9-36:20
 	android:windowSoftInputMode
-		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:23:13-55
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:30:13-55
 	android:exported
-		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:22:13-36
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:29:13-36
 	android:configChanges
-		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:21:13-225
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:28:13-225
 	android:name
-		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:20:13-41
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:27:13-59
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:24:13-28:29
+ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:31:13-35:29
 action#android.intent.action.MAIN
-ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:25:17-69
+ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:32:17-69
 	android:name
-		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:25:25-66
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:32:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:27:17-77
+ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:27:27-74
+		ADDED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml:34:27-74
 uses-sdk
 INJECTED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/julioluque/StudioProjects/fronted_Mula/composeApp/src/androidMain/AndroidManifest.xml
@@ -195,6 +219,14 @@ MERGED from [io.insert-koin:koin-androidx-compose:4.0.0] /Users/julioluque/.grad
 MERGED from [io.insert-koin:koin-androidx-compose:4.0.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/2ecf54080ad2360cccd31db96776f481/transformed/koin-androidx-compose-4.0.0/AndroidManifest.xml:5:5-44
 MERGED from [io.insert-koin:koin-android:4.0.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/d24c99090106db4d2114de399ea49d0e/transformed/koin-android-4.0.0/AndroidManifest.xml:5:5-44
 MERGED from [io.insert-koin:koin-android:4.0.0] /Users/julioluque/.gradle/caches/8.10.2/transforms/d24c99090106db4d2114de399ea49d0e/transformed/koin-android-4.0.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.2.2] /Users/julioluque/.gradle/caches/8.10.2/transforms/2dbd56da764614e7f878ac95449227cf/transformed/coil-compose-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose:2.2.2] /Users/julioluque/.gradle/caches/8.10.2/transforms/2dbd56da764614e7f878ac95449227cf/transformed/coil-compose-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:2.2.2] /Users/julioluque/.gradle/caches/8.10.2/transforms/1dad2bcfd9d887d2695375671e364909/transformed/coil-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:2.2.2] /Users/julioluque/.gradle/caches/8.10.2/transforms/1dad2bcfd9d887d2695375671e364909/transformed/coil-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose-base:2.2.2] /Users/julioluque/.gradle/caches/8.10.2/transforms/49931000deede3b6dc11bdb8e0a73628/transformed/coil-compose-base-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose-base:2.2.2] /Users/julioluque/.gradle/caches/8.10.2/transforms/49931000deede3b6dc11bdb8e0a73628/transformed/coil-compose-base-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.2.2] /Users/julioluque/.gradle/caches/8.10.2/transforms/c6b04140fc7962d0fdcf842980d8cc4b/transformed/coil-base-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.2.2] /Users/julioluque/.gradle/caches/8.10.2/transforms/c6b04140fc7962d0fdcf842980d8cc4b/transformed/coil-base-2.2.2/AndroidManifest.xml:5:5-7:41
 MERGED from [io.coil-kt.coil3:coil-network-ktor3-android:3.0.0-rc02] /Users/julioluque/.gradle/caches/8.10.2/transforms/f5e794d7fbd7700c84f6450aa383b4b6/transformed/coil-network-ktor3-release/AndroidManifest.xml:5:5-44
 MERGED from [io.coil-kt.coil3:coil-network-ktor3-android:3.0.0-rc02] /Users/julioluque/.gradle/caches/8.10.2/transforms/f5e794d7fbd7700c84f6450aa383b4b6/transformed/coil-network-ktor3-release/AndroidManifest.xml:5:5-44
 MERGED from [io.coil-kt.coil3:coil-compose-android:3.0.0-rc02] /Users/julioluque/.gradle/caches/8.10.2/transforms/bfc19060841b08e09be2af5b7f4becdb/transformed/coil-compose-release/AndroidManifest.xml:5:5-44
